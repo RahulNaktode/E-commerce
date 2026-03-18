@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.location .MuiPaper-elevation {
+  padding: 25px;
+}
